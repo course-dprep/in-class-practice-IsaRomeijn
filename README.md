@@ -6,7 +6,7 @@
 
 
 # Title of your Project
-*Describe the purpose of this project* 
+First repository with exercises in dPrep
 
 ## Motivation
 
